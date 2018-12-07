@@ -2,11 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9729afec-cecf-4016-acd1-2a89a1c030a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RimReaderGIT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_code/src/sample/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RimReaderGIT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RimReaderGIT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/fontbox_2_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/h2_1_4_197.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/h2_1_4_197__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/json_simple-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/json_simple_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/libraries.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/libraries/sqlite_jdbc_3_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/Libfin.s3db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/Libmy.s3db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/Library.s3db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/RimReader.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/fontbox-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/Book.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/Book.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/Book_lib.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/Book_lib.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/Translate down.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/Translate down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/Translate up.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/Translate up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/add.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/bookmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/bookmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/books.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/books.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/decrease_font.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/decrease_font.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/increase_font.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/increase_font.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/Images/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/Images/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/db/h2-1.4.197.jar" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/db/h2-1.4.197.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Controller$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Controller$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Controller$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Library$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Search$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/Translate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/out/production/RimReader/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/pdfbox-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/pdfbox-app-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/pdfbox-tools-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/preflight-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/preflight-app-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/sqlite-jdbc-3.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/Book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/Book_lib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/Translate down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/Translate up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/books.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/decrease_font.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/increase_font.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/Images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/db/h2-1.4.197.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/Launch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/Translate.java" beforeDir="false" afterPath="$PROJECT_DIR$/source_code/src/sample/Translate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_code/RimReader/xmpbox-2.0.12.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +99,14 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="928072400">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,10 +118,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="300" />
-    <option name="y" value="60" />
+    <option name="x" value="362" />
+    <option name="y" value="206" />
     <option name="width" value="1620" />
     <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -47,16 +132,53 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RimReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RimReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RimReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RimReader" type="462c0819:PsiDirectoryNode" />
+              <item name="source_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RimReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RimReader" type="462c0819:PsiDirectoryNode" />
+              <item name="source_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RimReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RimReader" type="462c0819:PsiDirectoryNode" />
+              <item name="source_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544186037561" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\RimReader\source_code" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,6 +192,15 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="RimReaderGIT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -81,27 +212,24 @@
       <option name="presentableId" value="Default" />
       <updated>1543997615145</updated>
       <workItem from="1543997616640" duration="17000" />
+      <workItem from="1544185704484" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17000" />
+    <option name="totallyTimeSpent" value="344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -109,15 +237,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
